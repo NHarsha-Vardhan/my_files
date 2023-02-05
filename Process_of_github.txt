@@ -1,0 +1,80 @@
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ pwd
+/c/Users/HARSHA/OneDrive/Desktop/col
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/HARSHA/OneDrive/Desktop/col/.git/
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git add .
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git commit -m "Files success"
+[master (root-commit) a4cc08a] Files success
+ 27 files changed, 1003 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 resources/css/reset.css
+ create mode 100644 resources/css/style.css
+ create mode 100644 resources/images/capstone_colmar_assets/.DS_Store
+ create mode 100644 resources/images/capstone_colmar_assets/images/.DS_Store
+ create mode 100644 resources/images/capstone_colmar_assets/images/banner.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/course-business.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/course-computer-art.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/course-data.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/course-design.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/course-marketing.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/course-software.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/favicon.ico
+ create mode 100644 resources/images/capstone_colmar_assets/images/ic-login.svg
+ create mode 100644 resources/images/capstone_colmar_assets/images/ic-logo.svg
+ create mode 100644 resources/images/capstone_colmar_assets/images/ic-on-campus.svg
+ create mode 100644 resources/images/capstone_colmar_assets/images/ic-online.svg
+ create mode 100644 resources/images/capstone_colmar_assets/images/information-campus-mobile.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/information-campus.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/information-guest-lecture-mobile.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/information-guest-lecture.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/information-main.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/information-orientation-mobile.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/information-orientation.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/thesis-fisma.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/images/thesis-now-and-then.jpg
+ create mode 100644 resources/images/capstone_colmar_assets/videos/thesis.mp4
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git log
+commit a4cc08ad868f9c69ab163a18fb2c5bcc96ec03e7 (HEAD -> master)
+Author: NHarsha <nharsha569@gmail.com>
+Date:   Sun Feb 5 19:15:49 2023 +0530
+
+    Files success
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git config --global user.email "nharsha569@gmail.com"
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git config --global user.name "NHarsha"
+\
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git remote add origin https://github.com/NHarsha-Vardhan/Colmar_project.git
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$ git push -u origin master
+Enumerating objects: 35, done.
+Counting objects: 100% (35/35), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (33/33), done.
+Writing objects: 100% (35/35), 11.68 MiB | 4.78 MiB/s, done.
+Total 35 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/NHarsha-Vardhan/Colmar_project/pull/new/master
+remote:
+To https://github.com/NHarsha-Vardhan/Colmar_project.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+HARSHA@DESKTOP-VOT9T0E MINGW64 ~/OneDrive/Desktop/col (master)
+$
+
