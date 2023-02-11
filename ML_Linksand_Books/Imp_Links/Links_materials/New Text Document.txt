@@ -1,0 +1,27 @@
+Other Essential Programming skills in python:
+ --> Deeper Understanding of python data strutures- string,
+list, tuple, dict, numpy array 
+-->Advanced data strutures- trees, graphs, queues, stacks,
+heaps,linked lists 
+-->Analysis of algorithm- Big O analysis, and learn some common 
+tree , graph and sorting algos databases-SQL
+
+Problem Solving and coding Skills in Python:
+
+--> ProjectEuler
+    CodeWars
+    TopCoder
+    HackerRank
+
+Three Popular Tracks for Python Careers:
+
+Other Good Projects to workon:
+
+
+--------------------------
+
+Feilds in which Python it will be implemented :-
+
+1. web development(JS,Django/Flask)
+2.Machine learning
+3.NLP

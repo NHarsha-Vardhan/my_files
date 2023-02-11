@@ -1,0 +1,99 @@
+LINK OF WEBSITE: https://www.quora.com/What-is-the-syllabus-for-Data-Science
+
+https://www.mltut.com/best-online-python-courses-for-data-analysis/#5-data-analysis-with-pandas-and-python-udemy
+
+Well, when anybody talks about subjects like Data Sciences, the only word that crops up my mind is – Gigantic!
+
+This is one field, where you would find tons of things covered up under one single roof.
+
+However, rather than getting intimidated by the portion that you need to cover here, you better get going and follow a step-by-step or a streamlined learning process, so as to be able to cover the entire syllabus holistically.
+
+Now, when you basically try to start off reading about the topic directly, you are bound to get perplexed looking at the information that you need to know prior to learning data sciences.
+
+As a newbie, you got to know that you would have to first prepare your base for the learning process by learning about few other topics like Mathematics, Statistics and even a few programming languages, databases, operating systems.
+
+Let us have a look at them closely, as to what exactly you are supposed to learn in them.
+
+Mathematics and Statistics
+
+Linear Algebra
+
+Differential equations
+
+Matrices
+
+Calculus
+
+Vector
+
+Multivariate and differential Calculus
+
+Random Variables
+
+Descriptive Statistics
+
+Bayesian theorems
+
+Probability theory
+
+Optimization theory
+
+Graph Theory, etc.
+
+Programming languages
+
+Python
+
+R
+
+Ruby
+
+Perl
+
+Java
+
+Matlab
+
+C, C++
+
+Operating systems like Linux
+
+Linux shell scripting
+
+Databases
+
+MySQL
+
+Cassandra
+
+MongoDB
+
+You are also supposed to know of Analytics and Visualization since they are truly mandatory topics when you are planning to learn data sciences.
+
+Thus, you would need more exposure to tools like Excel, Tableau, etc.
+
+Again Machine Learning is an integral part of the subject which itself is a broader topic, which consists of many sub-topics like:
+
+Regression (Linear, Logistic, Polynomial)
+
+Decision trees
+
+Boosted trees
+
+Cross-Validation, actually many more!
+
+Big data is another subset of Data sciences where you can specialize as well, which consists of topics like Hadoop, MapReduce, Spark, Apache, etc.
+
+Another important part is the Deep learning segment, which consists of topics like Neural Networks, Hyperparameters optimization, YOLO, Object Detection, NLP or Natural Language Processing, computer Vision, etc.
+
+Thus, you can clearly see that the topic is actually a vast one. And in order to become an expert in the same, you would highly need to be dedicated to learn the topic holistically.
+
+However, note that, in this case, you are sure to require an expert hand to show you the right career path considering the vastness of the topic.
+
+You need somebody to guide you completely and take you through all the topics one by one in a very streamlined manner, without confusing or intimidating you.
+
+These days many institutes promise a complete syllabus with 100% placement assistance.
+
+However you should stick to the ones that are genuinely interested in helping you out from scratch and also help you boost your confidence.
+
+And therefore, I would highly recommend you attending the free online demo session conducted by the Digital Vidya Institute on their website to give you a proper gist of all these topics and help you with some more information on the subjec
