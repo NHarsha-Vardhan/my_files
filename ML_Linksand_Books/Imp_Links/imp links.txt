@@ -1,0 +1,9 @@
+
+1.https://octave.org/doc/v6.4.0/Broadcasting.html
+
+
+2.help center:
+https://nl.mathworks.com/help/matlab/ref/function.html?s_tid=doc_ta
+
+3.Smithakolan(youtuber ML roadmap)
+https://bit.ly/LearnML2022

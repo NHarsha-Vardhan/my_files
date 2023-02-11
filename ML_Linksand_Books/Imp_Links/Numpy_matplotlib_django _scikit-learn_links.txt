@@ -1,0 +1,17 @@
+Numpy related links:
+
+https://numpy.org/doc/stable/user/basics.creation.html
+
+
+matplotlib related links:
+1. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+2. https://matplotlib.org/stable/api/patches_api.html
+3.https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html
+
+
+pandas related link:
+1.https://pandas.pydata.org/pandas-docs/stable/reference/arrays.html
+2.https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+
+Scikitlearn links:
+ 1.https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html

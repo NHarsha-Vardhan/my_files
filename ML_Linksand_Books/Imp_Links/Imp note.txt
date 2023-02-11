@@ -1,0 +1,6 @@
+Websites related to data and ML.
+1.Kaggle
+2.openml
+
+Imp. link related to note book(from github) :
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
